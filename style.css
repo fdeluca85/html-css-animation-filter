@@ -81,9 +81,9 @@
     transition: 5s;
 }
 .ex-9-img:hover{
-    transform: scale(2);
+    transform: scale(1.5);
     filter: sepia(80%);
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 
